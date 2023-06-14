@@ -1,0 +1,111 @@
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+}
+.note
+{
+    font-size: 15px;
+    color: rgb(113, 47, 9);
+    font-family: 'Playfair Display', serif;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+
+
+
+
+
+.div_volume
+{
+    float: right;
+}
+
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 10px solid white;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.pause_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+
+#show_sketch
+{
+    margin-top:20px;
+    margin-right: 30px;
+    float: right;
+}
+
+#myModal
+{
+  background-color: aliceblue;
+}
+
+.title
+{
+  color:crimson;
+  font-weight: bolder;
+  font-size: 40px;
+  background-color: khaki;
+  border: 5px solid rgb(222, 201, 107);
+}
+
+#song1Start
+{
+    margin-top:580px;
+    margin-left: 10px;
+    width: 5%;
+    height: 3%;
+}
+
+#song2start
+{
+    margin-top:580px;
+    margin-left: 10px;
+    width: 5%;
+    height: 3%;
+}
